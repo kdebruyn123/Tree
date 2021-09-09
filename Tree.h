@@ -1,6 +1,6 @@
 #include "node.h"
 #include <iostream>
-
+// Hello Miss Kay! :)
 class Tree 
 {
 public:
